@@ -15,4 +15,5 @@
 #
 
 add_lunch_combo full_santos103g-userdebug
+add_lunch_combo lineage_santos103g-userdebug
 add_lunch_combo aosp_santos103g-userdebug

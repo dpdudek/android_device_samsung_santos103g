@@ -20,7 +20,7 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 # Inherit device configuration
 $(call inherit-product, device/samsung/santos103g/full_santos103g.mk)
 
-PRODUCT_NAME := cm_santos103g
+PRODUCT_NAME := lineage_santos103g
 PRODUCT_BRAND := Samsung
 PRODUCT_MODEL := GT-P5200
 
