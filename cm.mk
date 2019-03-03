@@ -20,6 +20,10 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 # Inherit device configuration
 $(call inherit-product, device/samsung/santos103g/full_santos103g.mk)
 
+# Boot animation
+TARGET_SCREEN_WIDTH := 1280
+TARGET_SCREEN_HEIGHT := 800
+
 PRODUCT_NAME := lineage_santos103g
 PRODUCT_BRAND := Samsung
 PRODUCT_MODEL := GT-P5200
